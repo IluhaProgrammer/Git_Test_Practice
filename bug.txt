@@ -5,3 +5,7 @@ P&L считается
 Assorty
 
 Йоу
+
+GPG add to project 
+
+Тут есть баг 
