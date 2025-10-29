@@ -1,0 +1,8 @@
+# normalize line endings
+* text=auto
+# treat images as binary (no merges)
+*.png binary
+*.jpg binary
+# Git LFS tracking hint (can be created via git lfs track)
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
